@@ -6,17 +6,20 @@ Este repositorio será tu herramienta principal para el registro de actividades 
 
 
 ## Listado de objetivos
-Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqueantes, trata de no elegir demasiados para poder planear y dedicarle el tiempo necesario a cada uno.
+Estos son los objetivos de aprendizaje que me gustaría profundizar en esta semana.
 
-----
-
-> *Ejemplo de la estructura del listado de objetivos:*
+- [x] Selectores y manipulación dinamica del DOM
+- [ ] Uso de condicionales (IF-ELSE, SWITCH, OPERADOR TERNARIO)
+- [x]  Funciones - Ejercicios
+- [x]  Testing
+- [ ]  Modularización
+- [ ] Tipo de datos estructurados y Atómicos
 
 
 #### Temática
     
 - [ ] Objetivo de aprendizaje:
-    1. Describe las actividades que desarrollarás por cada objetivo
+    1. Al comienzo de la semana de profundización describire mis actividades diarias que deseo seguir para tener un orden y aprovechar al maximo el tiempo con los couches.
     2. Define una actividad final en la que puedas compartir tu conocimiento, puede ser la creación de un ejercicio para incluir en [el repositorio de entrenamiento](https://github.com/dapino/daily-js) o un *Lightning Talk* (5-10 minutos) para compartir el aprendizaje y/o ejercicios para practicar con tus compañeras.
 
 
@@ -24,13 +27,14 @@ Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqu
 
 
 ## Actividades
-Durante la revisión de tu aprendizaje es importante que consolides ese conocimiento en algún lugar y en lo posible compartas el conocimiento que has adquirido, es importante que organices y hagas seguimiento de tus tareas, por esta razón te sugerimos organices las actividades, puede ser en una tabla como esta:
+Esta es la agenda de la semana:
 
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
-| Actividad | Actividad | Actividad | Actividad | Actividad | 
-| Otra actividad | Otra actividad | Otra actividad | Otra actividad | Otra actividad | 
-| Otra más | Otra más | Otra más | Otra más | Otra más |
+|Feedback proyecto Rick and Morty | Espacio con Lupo sobre testing y ejercicios |Documentación condicionales | Actividad | Actividad |
+|Intro con coach (Daniel) sobre DOM | ejercicios de test | Ejercicios de condicionales | Actividad | Actividad | 
+| lectura sobre DOM | Espacio con Mariana Costa  | definir los temas para actividad entre nosotras de explicación  | Otra actividad | Otra actividad | 
+| Ejercicios en consola sobre selectores y manipulacion del DOM | Documentacion de condicionales | Análisis sobre como ha estado nuestra semana de profundización y saber que nos falta | Otra más | Otra más |
 
 
 ## Recursos
@@ -39,4 +43,5 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 [Documentación y recursos por temáticas](https://github.com/dapino/Learning-Resources)
 
 [Ejercicios de JS para entrenar la lógica y sintaxis](https://github.com/dapino/daily-js)
+
 
