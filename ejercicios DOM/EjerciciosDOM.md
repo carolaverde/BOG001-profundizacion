@@ -21,16 +21,16 @@ El DOM es el Document Object Model de un documento HTML, representa el documento
 
 Todo se trabajo en en la consola del chrome.
 
-[foto 1](https://github.com/carolaverde/BOG001-profundizacion/blob/master/ejercicios%20DOM/img/3.jpg)
+![foto 1](https://github.com/carolaverde/BOG001-profundizacion/blob/master/ejercicios%20DOM/img/3.jpg)
 
-[foto 2](https://github.com/carolaverde/BOG001-profundizacion/blob/master/ejercicios%20DOM/img/4.jpg)
+![foto 2](https://github.com/carolaverde/BOG001-profundizacion/blob/master/ejercicios%20DOM/img/4.jpg)
 
-[foto 3](https://github.com/carolaverde/BOG001-profundizacion/blob/master/ejercicios%20DOM/img/5.jpg)
+![foto 3](https://github.com/carolaverde/BOG001-profundizacion/blob/master/ejercicios%20DOM/img/5.jpg)
 
-[foto 4](https://github.com/carolaverde/BOG001-profundizacion/blob/master/ejercicios%20DOM/img/6.jpg)
+![foto 4](https://github.com/carolaverde/BOG001-profundizacion/blob/master/ejercicios%20DOM/img/6.jpg)
 
-[foto 5](https://github.com/carolaverde/BOG001-profundizacion/blob/master/ejercicios%20DOM/img/7.jpg)
+![foto 5](https://github.com/carolaverde/BOG001-profundizacion/blob/master/ejercicios%20DOM/img/7.jpg)
 
-[foto 6](https://github.com/carolaverde/BOG001-profundizacion/blob/master/ejercicios%20DOM/img/8.jpg)
+![foto 6](https://github.com/carolaverde/BOG001-profundizacion/blob/master/ejercicios%20DOM/img/8.jpg)
 
 ## Actualización de bitacora - Hecho!!
