@@ -31,9 +31,9 @@ Esta es la agenda de la semana:
 
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
-|Feedback proyecto Rick and Morty | Espacio con Lupo sobre testing y ejercicios |Documentación condicionales | Actividad | Actividad |
-|Intro con coach (Daniel) sobre DOM | ejercicios de test | Ejercicios de condicionales | Actividad | Actividad | 
-| lectura sobre DOM | Espacio con Mariana Costa  | definir los temas para actividad entre nosotras de explicación  | Otra actividad | Otra actividad | 
+|Feedback proyecto Rick and Morty | Espacio con Lupo sobre testing y ejercicios |Documentación condicionales |espacio soft| Actividad |
+|Intro con coach (Daniel) sobre DOM | ejercicios de test | Ejercicios de condicionales | ejercicios en la consola en grupo y con Daniel | Actividad | 
+| lectura sobre DOM | Espacio con Mariana Costa  | definir los temas para actividad entre nosotras de explicación  | ejercicios en la consola en grupo y con Daniel | Otra actividad | 
 | Ejercicios en consola sobre selectores y manipulacion del DOM | Documentacion de condicionales | Análisis sobre como ha estado nuestra semana de profundización y saber que nos falta | Otra más | Otra más |
 
 
